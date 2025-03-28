@@ -1,0 +1,20 @@
+body {
+    width: 800px;
+}
+.post-header {
+    display: flex;
+    align-items: center;
+}
+ .post-icons {
+    display: flex;
+ }
+ .icon-rigth{ 
+    margin-left: 628px; 
+  } 
+  .move {
+    margin-left: 10px;
+  }
+
+
+
+
