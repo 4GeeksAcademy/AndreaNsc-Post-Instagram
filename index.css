@@ -12,9 +12,11 @@ div {background-color: white;
 .post-header {
     display: flex;
     align-items: center;
+    margin-top: 10px;
 }
  .post-icons {
     display: flex;
+    margin-top: 10px;
  }
  .icon-rigth{ 
     margin-left: 285px; 
