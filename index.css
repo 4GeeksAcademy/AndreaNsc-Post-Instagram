@@ -1,5 +1,13 @@
 body {
-    width: 800px;
+    display: flex;
+    justify-content: center;
+    background-color: black;
+    margin: 0;
+}
+div {background-color: white;
+}
+.post-img {
+  margin-top: 5px;
 }
 .post-header {
     display: flex;
@@ -9,12 +17,15 @@ body {
     display: flex;
  }
  .icon-rigth{ 
-    margin-left: 628px; 
+    margin-left: 285px; 
   } 
   .move {
     margin-left: 10px;
   }
-
+.post-body {
+  width: 400px;
+  margin: 2px;
+}
 
 
 
